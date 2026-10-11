@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+models/
+tokenizers/
+logs/
+reproduced/
+*.log
+f23/raw/
+f23/candidates.json
+f23_items.jsonl
+private_sources/

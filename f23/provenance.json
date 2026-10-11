@@ -1,0 +1,4544 @@
+[
+  {
+    "id": "s000",
+    "repo": "AdityKansara/PythonforBeginners",
+    "url": "https://github.com/AdityKansara/PythonforBeginners/blob/aacfe7859e4c5a1b56a592a344cd44f2871da330/d6_CoinFlip.py",
+    "commit": "aacfe7859e4c5a1b56a592a344cd44f2871da330",
+    "path": "d6_CoinFlip.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "4b0afe3fa000563beb3d114edb2fc92b202b4bff8756e0a33b15cf4a34e2ea9f",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 5,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s001",
+    "repo": "AlexiaAshford/CSharp_Garbage_Code_Generater-python",
+    "url": "https://github.com/AlexiaAshford/CSharp_Garbage_Code_Generater-python/blob/24fe0686007bbb6c8f7217a37ebf2ba2f848c678/main.py",
+    "commit": "24fe0686007bbb6c8f7217a37ebf2ba2f848c678",
+    "path": "main.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "a467325eedeab42f4df177ffbd781dd8e185a64b344523841f00038b67847a1a",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3
+    ],
+    "oor": [
+      4,
+      5,
+      6
+    ],
+    "var": "r",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s002",
+    "repo": "Alligator/homero",
+    "url": "https://github.com/Alligator/homero/blob/4e871d2eae32b055248b835be93c19ba7b6d2eec/plugins/drn.py",
+    "commit": "4e871d2eae32b055248b835be93c19ba7b6d2eec",
+    "path": "plugins/drn.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "642b3b26a4a98c5cd79867a1d2574310c482deaadd6a3f8ad3e17fd2db485770",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 4,
+    "constant": {
+      "value": 6,
+      "line": 5,
+      "col": 10,
+      "end_col": 11
+    }
+  },
+  {
+    "id": "s003",
+    "repo": "Anilnayak126/Python-files-",
+    "url": "https://github.com/Anilnayak126/Python-files-/blob/e5cead7e50346530afa42be7a937a7aa8ea9f954/Random.py",
+    "commit": "e5cead7e50346530afa42be7a937a7aa8ea9f954",
+    "path": "Random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "952146e7ce0503d83ca80bba60a2bd52d2e3764bb595aab6375d1b031a7aa84f",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s004",
+    "repo": "BappiGorain/Python-Programming",
+    "url": "https://github.com/BappiGorain/Python-Programming/blob/daebfb9370a68ec93851f3f2f8dfc7fd2b729693/Random.py",
+    "commit": "daebfb9370a68ec93851f3f2f8dfc7fd2b729693",
+    "path": "Random.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "396e791b041dc1e6b5d9e1390bfa481651302eaba7736aa25be101a8aa8ff3aa",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "num",
+    "draw_line": 7,
+    "constant": {
+      "value": 1,
+      "line": 8,
+      "col": 14,
+      "end_col": 15
+    }
+  },
+  {
+    "id": "s005",
+    "repo": "BillCruise/Probability",
+    "url": "https://github.com/BillCruise/Probability/blob/dcc40198522f0594aa05a53a46c41f113843fd2d/scripts/dicey_question.py",
+    "commit": "dcc40198522f0594aa05a53a46c41f113843fd2d",
+    "path": "scripts/dicey_question.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "584fb0d4368665a0a0362b738e8e11421922b1e81835378730175b9c08e66801",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 16,
+    "constant": {
+      "value": 0,
+      "line": 14,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s006",
+    "repo": "BillCruise/Probability",
+    "url": "https://github.com/BillCruise/Probability/blob/dcc40198522f0594aa05a53a46c41f113843fd2d/scripts/trials_until_success.py",
+    "commit": "dcc40198522f0594aa05a53a46c41f113843fd2d",
+    "path": "scripts/trials_until_success.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "7204a100f056d7e911f327c5b7cf84e98d9dc3f331446e349f37f4729d66af34",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die",
+    "draw_line": 15,
+    "constant": {
+      "value": 1,
+      "line": 14,
+      "col": 17,
+      "end_col": 18
+    }
+  },
+  {
+    "id": "s007",
+    "repo": "Bipingrg-code/python-2024",
+    "url": "https://github.com/Bipingrg-code/python-2024/blob/f01a990d5a0bcf2d361074c043af225aa79b3060/Basic/RandomModule/main.py",
+    "commit": "f01a990d5a0bcf2d361074c043af225aa79b3060",
+    "path": "Basic/RandomModule/main.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "e4c9d3a006868e7ffbedb67d4193c4d7e38421568d66202d3a3ce7575042f3b5",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 9,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s008",
+    "repo": "CallenLin/my_first_repo",
+    "url": "https://github.com/CallenLin/my_first_repo/blob/b42fbfc956a9dbb720480c7769117b7578beb492/app.py",
+    "commit": "b42fbfc956a9dbb720480c7769117b7578beb492",
+    "path": "app.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "94fb0432d8dd784b92bd5191ce5c3441963728f1ebe87d7e745371b77fc0f74c",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "num",
+    "draw_line": 3,
+    "constant": {
+      "value": 3,
+      "line": 5,
+      "col": 10,
+      "end_col": 11
+    }
+  },
+  {
+    "id": "s009",
+    "repo": "DSHaworth/MurachPython",
+    "url": "https://github.com/DSHaworth/MurachPython/blob/5eb518f4fc2d0604a65ca28d5c6de55c55ddddbf/ch04/pig_dice_game_global.py",
+    "commit": "5eb518f4fc2d0604a65ca28d5c6de55c55ddddbf",
+    "path": "ch04/pig_dice_game_global.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "21d37ebc083170c01e7e26f6e651ae400a53355738110c0ed8f53a0568b1f13d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die",
+    "draw_line": 6,
+    "constant": {
+      "value": 0,
+      "line": 9,
+      "col": 26,
+      "end_col": 27
+    }
+  },
+  {
+    "id": "s010",
+    "repo": "Dawimond/mcb185_homework",
+    "url": "https://github.com/Dawimond/mcb185_homework/blob/1aaba5ed68e25bd54ca49727f66335b754e9ecdf/45dndstats.py",
+    "commit": "1aaba5ed68e25bd54ca49727f66335b754e9ecdf",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "875ea6eb53edcd7a6bbfd41f25b277b3cc8e4584a7459773b84333cb8a2654aa",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 15,
+    "constant": {
+      "value": 0,
+      "line": 13,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s011",
+    "repo": "Elielson68/Algoritmos-de-Buscas",
+    "url": "https://github.com/Elielson68/Algoritmos-de-Buscas/blob/f9164efac483f500eb00fd4c8601f14fd569f8d7/app.py",
+    "commit": "f9164efac483f500eb00fd4c8601f14fd569f8d7",
+    "path": "app.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "fe2139487ca08ed1615a34b0147c9db6397441bc0fe4a264984528c6605e132d",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "n",
+    "draw_line": 8,
+    "constant": {
+      "value": 0,
+      "line": 9,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s012",
+    "repo": "FrancescaAsuncion/mcb185_homework",
+    "url": "https://github.com/FrancescaAsuncion/mcb185_homework/blob/94aed82491e3be25d4e389f2b197e1f2f7c9d9c3/45dndstats.py",
+    "commit": "94aed82491e3be25d4e389f2b197e1f2f7c9d9c3",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "75dac27752863e574edb57389cb2094941374e9a391fe71beaa223c8198d47e8",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 24,
+    "constant": {
+      "value": 0,
+      "line": 20,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s013",
+    "repo": "GkhanTpz/BlackJack",
+    "url": "https://github.com/GkhanTpz/BlackJack/blob/4698e7ee4ec9b34e18892a416a909fe8d4f5989c/card.py",
+    "commit": "4698e7ee4ec9b34e18892a416a909fe8d4f5989c",
+    "path": "card.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "bfd533378daec5cb2078d2881110267dd682ccc23ccb12bc6aab673ab00d47d3",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "oor": [
+      5,
+      6,
+      7
+    ],
+    "var": "card_choice",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 22,
+      "end_col": 23
+    }
+  },
+  {
+    "id": "s014",
+    "repo": "Hamsik2rang/Python_Study",
+    "url": "https://github.com/Hamsik2rang/Python_Study/blob/431993d5d92741798e8fd3e69a347ff1c7b445d1/Day2/Sources/Ex4_1.py",
+    "commit": "431993d5d92741798e8fd3e69a347ff1c7b445d1",
+    "path": "Day2/Sources/Ex4_1.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "7d503a1f048aaecc7085885888ccef2ae2b44de4517e86329362fd4985e21a27",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 3,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s015",
+    "repo": "Haon19/Software1",
+    "url": "https://github.com/Haon19/Software1/blob/ab11150473bd2c22265203f9d7c8245711b27905/Module6/task1.py",
+    "commit": "ab11150473bd2c22265203f9d7c8245711b27905",
+    "path": "Module6/task1.py",
+    "selected": false,
+    "review_decision": "changes_termination",
+    "category": null,
+    "snippet_sha256": "f3bcea760d3ee6104d6e1117f000d37ca3eb248addb371436a434e493621a3ec",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 7,
+    "constant": {
+      "value": 6,
+      "line": 9,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s016",
+    "repo": "Jsuryaboi-08/python_Documentation",
+    "url": "https://github.com/Jsuryaboi-08/python_Documentation/blob/0e5159229a3d1bcad2e9d2873deb417361a0c1d5/Random.py",
+    "commit": "0e5159229a3d1bcad2e9d2873deb417361a0c1d5",
+    "path": "Random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "e96b797938c2feb733dfbe7b684fdb789a6bc54be4ee4ea30cc4ea90a3248bb4",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 15,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s017",
+    "repo": "KeplerWang/Pychat",
+    "url": "https://github.com/KeplerWang/Pychat/blob/58d1f1b0311026c2125257ee59ddd4a801e179c4/VerifyEmail.py",
+    "commit": "58d1f1b0311026c2125257ee59ddd4a801e179c4",
+    "path": "VerifyEmail.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "8e297842fa144c29e9370ed6a74b590f8e280702f453643cd5576f3bdae2ffcf",
+    "func": "randrange",
+    "legal": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "oor": [
+      5,
+      6,
+      7
+    ],
+    "var": "r",
+    "draw_line": 6,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s018",
+    "repo": "Krabbenjack/Mek-Mercenary-Additions",
+    "url": "https://github.com/Krabbenjack/Mek-Mercenary-Additions/blob/72bd441f60b289f38bbb84232ccbc6a7f4189ec9/mekhq_social_sim/src/rules/skill_roll.py",
+    "commit": "72bd441f60b289f38bbb84232ccbc6a7f4189ec9",
+    "path": "mekhq_social_sim/src/rules/skill_roll.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "cba9b71aeb65751ad7cd68734da369b425bfe6d92fb2ce87f8c0f653677e22fe",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die",
+    "draw_line": 6,
+    "constant": {
+      "value": 6,
+      "line": 8,
+      "col": 17,
+      "end_col": 18
+    }
+  },
+  {
+    "id": "s019",
+    "repo": "Lawlez/myOSWE",
+    "url": "https://github.com/Lawlez/myOSWE/blob/a2c7350459c137f7242a2513b0a226732d83c00f/scripts/ipList.py",
+    "commit": "a2c7350459c137f7242a2513b0a226732d83c00f",
+    "path": "scripts/ipList.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "accf0338fa74e1ba919fb889641bd784de8be1c88ecbecda633da4f168540e00",
+    "func": "choice",
+    "legal": [
+      1,
+      2,
+      3
+    ],
+    "oor": [
+      4,
+      5,
+      6
+    ],
+    "var": "choice",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 6,
+      "col": 17,
+      "end_col": 18
+    }
+  },
+  {
+    "id": "s020",
+    "repo": "Liu0330/spider",
+    "url": "https://github.com/Liu0330/spider/blob/294aa7fa5a9464f15558fbb800ac01342719b69f/shaizi/shaiziyouxi.py",
+    "commit": "294aa7fa5a9464f15558fbb800ac01342719b69f",
+    "path": "shaizi/shaiziyouxi.py",
+    "selected": false,
+    "review_decision": "changes_termination",
+    "category": null,
+    "snippet_sha256": "25d5059529b63ccb3645d1566263712df6a84b8db7baf672626db84356ead66e",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "number",
+    "draw_line": 8,
+    "constant": {
+      "value": 1,
+      "line": 10,
+      "col": 17,
+      "end_col": 18
+    }
+  },
+  {
+    "id": "s021",
+    "repo": "M1chalS/python-course",
+    "url": "https://github.com/M1chalS/python-course/blob/790d95debc5db6aa7e4085a8d25dac0ab875db15/rand.py",
+    "commit": "790d95debc5db6aa7e4085a8d25dac0ab875db15",
+    "path": "rand.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "4b5c87ca6ef114b8b4b25f2741796d36d3d1ba9b9e5978082500c83e3162d834",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 9,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s022",
+    "repo": "MakerBox-NZ/pygame_jess",
+    "url": "https://github.com/MakerBox-NZ/pygame_jess/blob/adfc8e22d4257a33a85e96c02444888b8b4de87f/jessDice.py",
+    "commit": "adfc8e22d4257a33a85e96c02444888b8b4de87f",
+    "path": "jessDice.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "260f6aca963cbacb22971a5a17c7c509f6e218badd849d484279715ec2f83642",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "player",
+    "draw_line": 4,
+    "constant": {
+      "value": 3,
+      "line": 11,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s023",
+    "repo": "MarinaMiron/Python3_learning",
+    "url": "https://github.com/MarinaMiron/Python3_learning/blob/2c2750a6b06013aa99da6deab66aab45eba0a7e2/Day04/heads_or_tails.py",
+    "commit": "2c2750a6b06013aa99da6deab66aab45eba0a7e2",
+    "path": "Day04/heads_or_tails.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "7e8d8ac3140465f2fb5a0a607ff0688791160e7531b2aa09f02c8e0449afc42f",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 2,
+    "constant": {
+      "value": 1,
+      "line": 3,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s024",
+    "repo": "Mousepotatopotato/mcb185_homework",
+    "url": "https://github.com/Mousepotatopotato/mcb185_homework/blob/b82f9f39cc13499c0f3490b47266a9c059a8b553/45dndstats.py",
+    "commit": "b82f9f39cc13499c0f3490b47266a9c059a8b553",
+    "path": "45dndstats.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "8ddd49aadb1b5d42dd24ab62b300e0ffab4cfec7ac138f54b2a4c5247bec00ec",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 6,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s025",
+    "repo": "NataliaMarin124/mcb185_homework",
+    "url": "https://github.com/NataliaMarin124/mcb185_homework/blob/7c37bc7d17fea17f7a2cfa297d14049f85c3a9bd/45dndstats.py",
+    "commit": "7c37bc7d17fea17f7a2cfa297d14049f85c3a9bd",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "430a3c076e81209662fb26d024a26e2668d16ae801afba328b0123f68d1535d3",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 10,
+    "constant": {
+      "value": 0,
+      "line": 8,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s026",
+    "repo": "PdxCodeGuild/class_honeybadger",
+    "url": "https://github.com/PdxCodeGuild/class_honeybadger/blob/15c1e6304a6a677f02ae3f3ab3310d4972a0c50a/Code/Marina/python/labLCR/labLCR.py",
+    "commit": "15c1e6304a6a677f02ae3f3ab3310d4972a0c50a",
+    "path": "Code/Marina/python/labLCR/labLCR.py",
+    "selected": false,
+    "review_decision": "mapping_key_for_draw_value",
+    "category": null,
+    "snippet_sha256": "fffc9e996484e56e1aa3fb13d2f62bbc6bd1e731676f767b6ed46a546bc94a7e",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll",
+    "draw_line": 17,
+    "constant": {
+      "value": 6,
+      "line": 13,
+      "col": 4,
+      "end_col": 5
+    }
+  },
+  {
+    "id": "s027",
+    "repo": "Pizzaboi87/practice-playgrounds",
+    "url": "https://github.com/Pizzaboi87/practice-playgrounds/blob/8fe1f75c8ef1fdc71d9ac4a8ec44c2e33536bb4a/Python_playground/random.py",
+    "commit": "8fe1f75c8ef1fdc71d9ac4a8ec44c2e33536bb4a",
+    "path": "Python_playground/random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "fb471c1be66d3fe142efc67bf3ea0376dfd45e6e09e17e88ed3e2ef8ca5854cf",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s028",
+    "repo": "PrasadSaha1/PureFinance",
+    "url": "https://github.com/PrasadSaha1/PureFinance/blob/652cb3a34f87cb0461f67e3a6e8a52a2e48dc92d/hi.py",
+    "commit": "652cb3a34f87cb0461f67e3a6e8a52a2e48dc92d",
+    "path": "hi.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "05abedef1c9f2664f0f0760ec87792f60c3e5d5eb29218c9cd99ef59ca29d823",
+    "func": "randint",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "win",
+    "draw_line": 11,
+    "constant": {
+      "value": 0,
+      "line": 8,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s029",
+    "repo": "Prawinkumarjs/Python-coding-practice",
+    "url": "https://github.com/Prawinkumarjs/Python-coding-practice/blob/07e85c9a3819f147a03327177dfba9fd39d2c393/Day20.py",
+    "commit": "07e85c9a3819f147a03327177dfba9fd39d2c393",
+    "path": "Day20.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "e2ebc3860bafd3306d53e8ed98c4d6b1eed1cfd63204731dbe4c02666079f8ef",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 19,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s030",
+    "repo": "Proteinshook/mcb185_homework",
+    "url": "https://github.com/Proteinshook/mcb185_homework/blob/b136b831e825e7ef4a53203e95f1a634f8931a1f/45dndstats.py",
+    "commit": "b136b831e825e7ef4a53203e95f1a634f8931a1f",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "897ae254f0e88bf9370dbbe662ecd5d29584a108927bc7f1770eceaa4f9a52c6",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 13,
+    "constant": {
+      "value": 0,
+      "line": 11,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s031",
+    "repo": "RedNoo/Python",
+    "url": "https://github.com/RedNoo/Python/blob/3ed2bd443daea482cc63f5b87b6692b3ba92ea4e/General/26_random.py",
+    "commit": "3ed2bd443daea482cc63f5b87b6692b3ba92ea4e",
+    "path": "General/26_random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "a1247e4ec631f4aed67fb1953af540251e0df59999f8b31fb47782e0cf1e6fc1",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 13,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s032",
+    "repo": "Remaker01/LibrarySeat",
+    "url": "https://github.com/Remaker01/LibrarySeat/blob/ba8599da6148116cbb5b54c0c7f5e74d71e3bac2/rand_users.py",
+    "commit": "ba8599da6148116cbb5b54c0c7f5e74d71e3bac2",
+    "path": "rand_users.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "3c501b548611546180cdd70588ed5f459b20c50fd8e8a88648873860c1e5b60b",
+    "func": "randint",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "len_",
+    "draw_line": 7,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 19,
+      "end_col": 20
+    }
+  },
+  {
+    "id": "s033",
+    "repo": "Samuel-Koomson/100_Days_of_Code",
+    "url": "https://github.com/Samuel-Koomson/100_Days_of_Code/blob/4bb8c381f6d090d338abb5e1ad85014f9fcd4367/Day_4_of_100/head_or_tail.py",
+    "commit": "4bb8c381f6d090d338abb5e1ad85014f9fcd4367",
+    "path": "Day_4_of_100/head_or_tail.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "b57ace0557fb7d2571ed05fc1b574046c695282a8e20d808eafb2f41f5fedc0c",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "virtual_coin",
+    "draw_line": 10,
+    "constant": {
+      "value": 0,
+      "line": 13,
+      "col": 19,
+      "end_col": 20
+    }
+  },
+  {
+    "id": "s034",
+    "repo": "SaroarShahan/100daysOfPythonLearning",
+    "url": "https://github.com/SaroarShahan/100daysOfPythonLearning/blob/fe7d4c0322f5061ecb349b434d9cd3c539d058ee/day-004/heads_tails.py",
+    "commit": "fe7d4c0322f5061ecb349b434d9cd3c539d058ee",
+    "path": "day-004/heads_tails.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "29b4f198dcc7c4e11217a4bb2fcbf76fbd294a0d27f6a3741f42983d8c1217c7",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 6,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s035",
+    "repo": "Seyed-Alireza-Kargar/Pylearn",
+    "url": "https://github.com/Seyed-Alireza-Kargar/Pylearn/blob/af478591058345b868b2208e947c6c156267594b/2/6.py",
+    "commit": "af478591058345b868b2208e947c6c156267594b",
+    "path": "2/6.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "48b25476f868cf4589f06273a8420b14c3a428a0862ef04354474489c5919757",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice_result",
+    "draw_line": 9,
+    "constant": {
+      "value": 6,
+      "line": 8,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s036",
+    "repo": "ShabbyWang-hash/Bro_Code_Python_Learning",
+    "url": "https://github.com/ShabbyWang-hash/Bro_Code_Python_Learning/blob/84e7429da65c8a0dd19b9050e2b3bc69f8abf0d8/1_basic/random_use.py",
+    "commit": "84e7429da65c8a0dd19b9050e2b3bc69f8abf0d8",
+    "path": "1_basic/random_use.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "0abe33504079c1b09305239c7d02857720d7a2746d5c4b5f7391bb88786b3671",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 12,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s037",
+    "repo": "Sid220/joe-mama-or-joe-biden",
+    "url": "https://github.com/Sid220/joe-mama-or-joe-biden/blob/fd6fd6c447d1fd9262585f87e51d066f76d7fd52/python.py",
+    "commit": "fd6fd6c447d1fd9262585f87e51d066f76d7fd52",
+    "path": "python.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "01e76cf16ed2b68f0eabd14ebcf3495d8fc8720249ea97e0a25bddf7a5789c0d",
+    "func": "randint",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "joe",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 6,
+      "col": 10,
+      "end_col": 11
+    }
+  },
+  {
+    "id": "s038",
+    "repo": "Strophox/mazing",
+    "url": "https://github.com/Strophox/mazing/blob/3f503f5c605fac54512d2c416cdad4290640d7c2/colortools.py",
+    "commit": "3f503f5c605fac54512d2c416cdad4290640d7c2",
+    "path": "colortools.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "aaf3fdb62717a1fa1afbf7ce14529581bce5757589a4b57841bb2965fab703d0",
+    "func": "randrange",
+    "legal": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "p",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 6,
+      "col": 17,
+      "end_col": 18
+    }
+  },
+  {
+    "id": "s039",
+    "repo": "Tanaanan/Python-101-Coding-Problems",
+    "url": "https://github.com/Tanaanan/Python-101-Coding-Problems/blob/5632918910249d7d7476a87d973efa6ee9831ef9/if.py",
+    "commit": "5632918910249d7d7476a87d973efa6ee9831ef9",
+    "path": "if.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "87146e00e7fd3317a94696bf2c68ebbe7a1ac47407d5831c535eb64e55844b75",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "number",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s040",
+    "repo": "ThearchyHelios/UGA_INF",
+    "url": "https://github.com/ThearchyHelios/UGA_INF/blob/eb293deabcc5ef6e45617d8c5bb6268b63b34f21/INF101/TD/1.3.4.py",
+    "commit": "eb293deabcc5ef6e45617d8c5bb6268b63b34f21",
+    "path": "INF101/TD/1.3.4.py",
+    "selected": false,
+    "review_decision": "changes_termination",
+    "category": null,
+    "snippet_sha256": "a8b0b09ddcc3edaff17a6fed6303b2bb5a65f48fdd97e9b17aeb7eee820d80c6",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 14,
+      "end_col": 15
+    }
+  },
+  {
+    "id": "s041",
+    "repo": "UIC-Academy/B6-python",
+    "url": "https://github.com/UIC-Academy/B6-python/blob/dc5a7fed4d0597f7757edcfa4977dd3a391f0cf9/while/wh40.py",
+    "commit": "dc5a7fed4d0597f7757edcfa4977dd3a391f0cf9",
+    "path": "while/wh40.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "d08d717c0ca92467c05857eef07af187d4e87a8cbfc4950a91e9da75fa3cb0a1",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "first",
+    "draw_line": 10,
+    "constant": {
+      "value": 1,
+      "line": 17,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s042",
+    "repo": "UKASITECH/Python-Code",
+    "url": "https://github.com/UKASITECH/Python-Code/blob/76d23f2be13e7eaccd17bdc48b854bf70047bd53/swg.py",
+    "commit": "76d23f2be13e7eaccd17bdc48b854bf70047bd53",
+    "path": "swg.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "679ddc223fe99abfcbc707ccc30af51f76f38a3e5422f9b3a60ce2317353d8bf",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3
+    ],
+    "oor": [
+      4,
+      5,
+      6
+    ],
+    "var": "randNo",
+    "draw_line": 27,
+    "constant": {
+      "value": 1,
+      "line": 28,
+      "col": 24,
+      "end_col": 25
+    }
+  },
+  {
+    "id": "s043",
+    "repo": "Viktorostermann/Scripts",
+    "url": "https://github.com/Viktorostermann/Scripts/blob/aac280e7f193162bcf722ca09e6da1f46180f0d2/KodLan/Indentaciones.py",
+    "commit": "aac280e7f193162bcf722ca09e6da1f46180f0d2",
+    "path": "KodLan/Indentaciones.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "3a862169c52f6de24631aa9fc9643467f4c9634038c1e09d28aec35af5bd0900",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 5,
+    "constant": {
+      "value": 0,
+      "line": 3,
+      "col": 7,
+      "end_col": 8
+    }
+  },
+  {
+    "id": "s044",
+    "repo": "Viktorostermann/Scripts",
+    "url": "https://github.com/Viktorostermann/Scripts/blob/aac280e7f193162bcf722ca09e6da1f46180f0d2/KodLan/Munchmink.py",
+    "commit": "aac280e7f193162bcf722ca09e6da1f46180f0d2",
+    "path": "KodLan/Munchmink.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "cb55f8c7e2f24ecf7408e2862fe2e916b331e6e787a2408fa05a3c9fb3818bdc",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "lolx",
+    "draw_line": 3,
+    "constant": {
+      "value": 5,
+      "line": 6,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s045",
+    "repo": "WSIZ-Bielsko/python-2023",
+    "url": "https://github.com/WSIZ-Bielsko/python-2023/blob/b745e706e018aab19fad0af6388ea58033ae2e70/src/fun_times/solutions_d/a.py",
+    "commit": "b745e706e018aab19fad0af6388ea58033ae2e70",
+    "path": "src/fun_times/solutions_d/a.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "73b58a9f226d7c88cf81a9b159fa06ee1765672eac5e14b90f19c10fbcdbf40f",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll",
+    "draw_line": 8,
+    "constant": {
+      "value": 0,
+      "line": 6,
+      "col": 14,
+      "end_col": 15
+    }
+  },
+  {
+    "id": "s046",
+    "repo": "Zinaidabi/python_reository",
+    "url": "https://github.com/Zinaidabi/python_reository/blob/09fa27d1ed2b3ac3b0260bf4d42ff400c292e7fb/Conditionals/Sintax1.py",
+    "commit": "09fa27d1ed2b3ac3b0260bf4d42ff400c292e7fb",
+    "path": "Conditionals/Sintax1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "f65109c0f616e43ce40bb1c3a137b51fb665b966aea7dda5b9de6a56f77108b1",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "random_number",
+    "draw_line": 12,
+    "constant": {
+      "value": 3,
+      "line": 9,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s047",
+    "repo": "Zinaidabi/python_reository",
+    "url": "https://github.com/Zinaidabi/python_reository/blob/09fa27d1ed2b3ac3b0260bf4d42ff400c292e7fb/Conditionals/sintax.py",
+    "commit": "09fa27d1ed2b3ac3b0260bf4d42ff400c292e7fb",
+    "path": "Conditionals/sintax.py",
+    "selected": false,
+    "review_decision": "dup_textbook",
+    "category": null,
+    "snippet_sha256": "0064960cabcd26476bbcd9f6ec26b52e18cac8dc90363be15d778e201fd2e566",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "random_number",
+    "draw_line": 13,
+    "constant": {
+      "value": 3,
+      "line": 9,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s048",
+    "repo": "aaavvvooo/PythonStation02",
+    "url": "https://github.com/aaavvvooo/PythonStation02/blob/8eb0fa8371b1b16374f06c53da0ebaafadca08cf/craps.py",
+    "commit": "8eb0fa8371b1b16374f06c53da0ebaafadca08cf",
+    "path": "craps.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "fce054a0080f96b0edfe701557c2f552768758f8b798d145af1f4ca8939a4fe5",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "first",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 11,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s049",
+    "repo": "aamuhic/mcb185_homework",
+    "url": "https://github.com/aamuhic/mcb185_homework/blob/8eb28d086e25c5a14ae459273d383d23bf8121b6/45dndstats.py",
+    "commit": "8eb28d086e25c5a14ae459273d383d23bf8121b6",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "1fb9ad35887dcc04f9668dea2eae8a43c3ef83a4697896f312249d121fb6bee8",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 12,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s050",
+    "repo": "aidan3du/mcb185_homework",
+    "url": "https://github.com/aidan3du/mcb185_homework/blob/5e2b9fa211ad45c2bee7d1fd3b4cb9cc81e548d1/45dndstats.py",
+    "commit": "5e2b9fa211ad45c2bee7d1fd3b4cb9cc81e548d1",
+    "path": "45dndstats.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "d9758864b5e009d96598086a70416fe2921a06ca16caa63b6304b47a876c6c3a",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll1",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 8,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s051",
+    "repo": "alexj136/alexj136.github.io",
+    "url": "https://github.com/alexj136/alexj136.github.io/blob/3aadc0c5ea8a89fed2c828fcd5f06f95c1b1124e/_includes/die.py",
+    "commit": "3aadc0c5ea8a89fed2c828fcd5f06f95c1b1124e",
+    "path": "_includes/die.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "278ea9bc3d76b64711789e5c68bcdd39170cdc8316bc7e512532f7dbdfce3f1f",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "rand",
+    "draw_line": 7,
+    "constant": {
+      "value": 6,
+      "line": 3,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s052",
+    "repo": "alichtman/wumpus",
+    "url": "https://github.com/alichtman/wumpus/blob/9297273c61da189160216a1a7cabd26314f20e77/wumpus.py",
+    "commit": "9297273c61da189160216a1a7cabd26314f20e77",
+    "path": "wumpus.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "9c618e640361b4c3d0dd9b4d4c580d2274375489475461c05994414529062537",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "row",
+    "draw_line": 18,
+    "constant": {
+      "value": 0,
+      "line": 15,
+      "col": 3,
+      "end_col": 4
+    }
+  },
+  {
+    "id": "s053",
+    "repo": "andrevieirass/python100daysofcode",
+    "url": "https://github.com/andrevieirass/python100daysofcode/blob/d9676ab79f0d3c0f2ee3dd5d8e711521e9ee569e/Day004/day-4-e1-heads-tails.py",
+    "commit": "d9676ab79f0d3c0f2ee3dd5d8e711521e9ee569e",
+    "path": "Day004/day-4-e1-heads-tails.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "5dc2acdca2b7a67e4a24618436cf37159b3ac2e893031223f0ea2e87bc28ad17",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 25,
+    "constant": {
+      "value": 1,
+      "line": 27,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s054",
+    "repo": "andyfam/python",
+    "url": "https://github.com/andyfam/python/blob/a89144912b62a2a6051dd37083b7119b90048a9d/random_numbers.py",
+    "commit": "a89144912b62a2a6051dd37083b7119b90048a9d",
+    "path": "random_numbers.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "8981371aec6d12a1baf0bd0acf07cfe8a1241e4755183ae0a3cb09e9e4385e21",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 17,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s055",
+    "repo": "aphp/eds-pseudo",
+    "url": "https://github.com/aphp/eds-pseudo/blob/b8bfde4a0e6ca31ac5ea85483757294d48f19d03/demo/app.py",
+    "commit": "b8bfde4a0e6ca31ac5ea85483757294d48f19d03",
+    "path": "demo/app.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "fb012efb5fdd3e007b318c0a016d579bafde5daffe5b5389a462a3eedcd8a04b",
+    "func": "choice",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "sex",
+    "draw_line": 4,
+    "constant": {
+      "value": 2,
+      "line": 7,
+      "col": 48,
+      "end_col": 49
+    }
+  },
+  {
+    "id": "s056",
+    "repo": "avantikagok/mcb185_homework",
+    "url": "https://github.com/avantikagok/mcb185_homework/blob/f0d072aa5403467eedbae9dffd03411bc3105003/45dndstats.py",
+    "commit": "f0d072aa5403467eedbae9dffd03411bc3105003",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "cf0f534c04e555b514a20f93a977b599dbcbdef4c3e18e2e02b60fbe0c08b896",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll",
+    "draw_line": 7,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 6,
+      "end_col": 7
+    }
+  },
+  {
+    "id": "s057",
+    "repo": "aytekinkaplan/100DaysOfCode-Python",
+    "url": "https://github.com/aytekinkaplan/100DaysOfCode-Python/blob/561d9f3edc8ba713dd4328c9c98009e82cbc5b1d/Day004/day-004-heads-or-tails.py",
+    "commit": "561d9f3edc8ba713dd4328c9c98009e82cbc5b1d",
+    "path": "Day004/day-004-heads-or-tails.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "0e4c0b5c03252b25d5dde33571e0f54eb9fdc98385729bcb29dca04b986fe3f6",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 5,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s058",
+    "repo": "basmajou/python-fundamentals-projects",
+    "url": "https://github.com/basmajou/python-fundamentals-projects/blob/400a1f23a417db311b5b7d84275e25668fdc8c62/coin-toss/main.py",
+    "commit": "400a1f23a417db311b5b7d84275e25668fdc8c62",
+    "path": "coin-toss/main.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "31274c14b9541b0c10f004cb91d107a947fc859602439c70500c9aed427e1e86",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s059",
+    "repo": "biruk1122/Python-Projects",
+    "url": "https://github.com/biruk1122/Python-Projects/blob/2e143449db8612be2167a4ded089d16b0892f3ea/004-DAY/rand_head_tail.py",
+    "commit": "2e143449db8612be2167a4ded089d16b0892f3ea",
+    "path": "004-DAY/rand_head_tail.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "7316ec4a5fe31a71482810246a2a837d17a0c57dc4210c1168b248addb1b6c82",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "random_coin",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s060",
+    "repo": "bredlej/mythic_bastionland_gm_tools",
+    "url": "https://github.com/bredlej/mythic_bastionland_gm_tools/blob/17984558828a3d046d6ccaeddf388754fef8eb96/roll.py",
+    "commit": "17984558828a3d046d6ccaeddf388754fef8eb96",
+    "path": "roll.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "2a86dac51a5e7f7941934281bf5068e9108791c02f6087f43d34e2747e8b8edd",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s061",
+    "repo": "chibuezedev/python-snippet",
+    "url": "https://github.com/chibuezedev/python-snippet/blob/43ca4e20dbbb0a80b658ca110ed602904862003e/day4.py",
+    "commit": "43ca4e20dbbb0a80b658ca110ed602904862003e",
+    "path": "day4.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "da6a8f5737921b8800eba02dafa4200a94705ef238ecb11d73b13ec8bada5a35",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "random_number",
+    "draw_line": 4,
+    "constant": {
+      "value": 5,
+      "line": 8,
+      "col": 33,
+      "end_col": 34
+    }
+  },
+  {
+    "id": "s062",
+    "repo": "claudiosw/python-best-practices",
+    "url": "https://github.com/claudiosw/python-best-practices/blob/898eb103bfe0bb3259637628dea8544cae9019f9/testing/mocking.py",
+    "commit": "898eb103bfe0bb3259637628dea8544cae9019f9",
+    "path": "testing/mocking.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "f955d366ea1886897f5142a91bed962e1fecfb053321c926c832181d0ad57641",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 7,
+    "constant": {
+      "value": 4,
+      "line": 8,
+      "col": 14,
+      "end_col": 15
+    }
+  },
+  {
+    "id": "s063",
+    "repo": "clydebankmedia/PythonJS-ProjectPack-1",
+    "url": "https://github.com/clydebankmedia/PythonJS-ProjectPack-1/blob/202e531736fdd72ba60166c2f4747d6f467990ca/coin-cli/steps/step2/coin.py",
+    "commit": "202e531736fdd72ba60166c2f4747d6f467990ca",
+    "path": "coin-cli/steps/step2/coin.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "5e710a1b132b0ae5bae1518fdfc6f73e300aa68a87ba4b9bc52858267e478387",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "flip",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 6,
+      "col": 19,
+      "end_col": 20
+    }
+  },
+  {
+    "id": "s064",
+    "repo": "clydebankmedia/PythonJS-ProjectPack-1",
+    "url": "https://github.com/clydebankmedia/PythonJS-ProjectPack-1/blob/202e531736fdd72ba60166c2f4747d6f467990ca/coin-cli/steps/step3/coin.py",
+    "commit": "202e531736fdd72ba60166c2f4747d6f467990ca",
+    "path": "coin-cli/steps/step3/coin.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "ccbc0838017c344d6bc8081bae3f7f81550daf1e992f9a5287302a9004dda822",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "flip",
+    "draw_line": 7,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s065",
+    "repo": "darioarias/learning_python",
+    "url": "https://github.com/darioarias/learning_python/blob/b149c236c7d0b787ec324a759d9ad0eed3e445ff/Python-Basics/ch8/8.7-simulate-cal-probs.py",
+    "commit": "b149c236c7d0b787ec324a759d9ad0eed3e445ff",
+    "path": "Python-Basics/ch8/8.7-simulate-cal-probs.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "5870833c63dae9080bc03fc205c342db5e855588bd066cb0f6df2c66f4feb633",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 11,
+    "constant": {
+      "value": 0,
+      "line": 9,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s066",
+    "repo": "dbt-labs/mock-dag",
+    "url": "https://github.com/dbt-labs/mock-dag/blob/bd1d7adeb6e6229d23360c9290802fe7efb34207/dag_builder__random_dag.py",
+    "commit": "bd1d7adeb6e6229d23360c9290802fe7efb34207",
+    "path": "dag_builder__random_dag.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "f751256248c06d324f9d390f4c63ef7c40ce20b90affb71a80f33eaa03bf02ed",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s067",
+    "repo": "devinmfan/mcb185_homework",
+    "url": "https://github.com/devinmfan/mcb185_homework/blob/2e0ab208952afe2f837b98ac7d982e3091f0907c/45dndstats.py",
+    "commit": "2e0ab208952afe2f837b98ac7d982e3091f0907c",
+    "path": "45dndstats.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "a5d0f01006cf8985d96e9e9008dc7dcba101f310c0663faa5eca1e79b273f069",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 9,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s068",
+    "repo": "ednl/python",
+    "url": "https://github.com/ednl/python/blob/a45620bbf0944c119d52961aebcc4f330cad4db0/scan.py",
+    "commit": "a45620bbf0944c119d52961aebcc4f330cad4db0",
+    "path": "scan.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "981b7233411743ebd39ec6044859a409012c8e04a20f8a06a40dfe0f1af2673d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "n",
+    "draw_line": 5,
+    "constant": {
+      "value": 2,
+      "line": 6,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s069",
+    "repo": "elmashadmo/mcb185_homework",
+    "url": "https://github.com/elmashadmo/mcb185_homework/blob/c1270998ff8a2ce8bd8dbcc3cb90c2cb277cceef/45dndstats.py",
+    "commit": "c1270998ff8a2ce8bd8dbcc3cb90c2cb277cceef",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "9285c0163a248cbddca6a20b3a45b0292644fe81863678fcc5f0b360614d732c",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll1",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 8,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s070",
+    "repo": "eoan-ermine-incubator/py_games",
+    "url": "https://github.com/eoan-ermine-incubator/py_games/blob/3d8dbf26f6375c019ad91f0301049cd953bd6a2c/roll_the_dice.py",
+    "commit": "3d8dbf26f6375c019ad91f0301049cd953bd6a2c",
+    "path": "roll_the_dice.py",
+    "selected": false,
+    "review_decision": "mapping_key_for_draw_value",
+    "category": null,
+    "snippet_sha256": "cbda069b0ac69009ca309778f2feb8574a8afbe6fda478123f5d39e14a88ee7b",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 4,
+      "end_col": 5
+    }
+  },
+  {
+    "id": "s071",
+    "repo": "felsefesinde/msc110finalproject",
+    "url": "https://github.com/felsefesinde/msc110finalproject/blob/c7d53f15d2a835a703b9666637db2ad18fc7b36f/utils.py",
+    "commit": "c7d53f15d2a835a703b9666637db2ad18fc7b36f",
+    "path": "utils.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "f39b786842ec6c5ab67a673fd70eb1851d55c7bc0363c9724ef3ab072b8600bd",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "oor": [
+      9,
+      0
+    ],
+    "var": "rand",
+    "draw_line": 7,
+    "constant": {
+      "value": 1,
+      "line": 11,
+      "col": 29,
+      "end_col": 30
+    }
+  },
+  {
+    "id": "s072",
+    "repo": "fragasperini/mcb185_homework",
+    "url": "https://github.com/fragasperini/mcb185_homework/blob/7726ad8ebe4f7efdde5e1e05a9b2ef63c1ba6a9c/45dndstats.py",
+    "commit": "7726ad8ebe4f7efdde5e1e05a9b2ef63c1ba6a9c",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "7acc16054dcbca2fc7faeaa016cece999bcb049e3e720ccb5922486e9c89e96b",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 12,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s073",
+    "repo": "gabrieljiglau/PMP-2024",
+    "url": "https://github.com/gabrieljiglau/PMP-2024/blob/76b1629c6e95adf5d83a2ceba2cb82d79ccab7e8/Lab02/classroom.py",
+    "commit": "76b1629c6e95adf5d83a2ceba2cb82d79ccab7e8",
+    "path": "Lab02/classroom.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "4272d859be499b92d7e977fd510735745b15a7dc81dd62d77488eb56382b7c4a",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die_roll",
+    "draw_line": 11,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s074",
+    "repo": "gavin-hecke/Dice_Rolling_Game",
+    "url": "https://github.com/gavin-hecke/Dice_Rolling_Game/blob/52293a6d08a447d28cc51f169cf15926554e85fd/answer.py",
+    "commit": "52293a6d08a447d28cc51f169cf15926554e85fd",
+    "path": "answer.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "630982279817b5cdcbaa892a280aa6f5d0f706fc6ec531651e5828ef73c6b1c3",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "first_Dice",
+    "draw_line": 4,
+    "constant": {
+      "value": 7,
+      "line": 7,
+      "col": 14,
+      "end_col": 15
+    }
+  },
+  {
+    "id": "s075",
+    "repo": "gtensho368-cyber/Khan-academy",
+    "url": "https://github.com/gtensho368-cyber/Khan-academy/blob/4407138d4c2e6a60f657ace4f48418f4b3f8eb8d/Loops.py",
+    "commit": "4407138d4c2e6a60f657ace4f48418f4b3f8eb8d",
+    "path": "Loops.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "379920648faca7a8be197c492a9ffdf2f9127faf6a2edd8839d8be8a074565d9",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 7,
+    "constant": {
+      "value": 1,
+      "line": 12,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s076",
+    "repo": "halntit/learn-python",
+    "url": "https://github.com/halntit/learn-python/blob/8dae2ff2be17cf89f2223d704e7561c94b52fae3/random/main.py",
+    "commit": "8dae2ff2be17cf89f2223d704e7561c94b52fae3",
+    "path": "random/main.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "0e23a04a6e71db9dd4c8cba8b31730282643c573bb60059911acebab1bbff484",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 18,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s077",
+    "repo": "hschickdevs/100-Days-of-Code-Python",
+    "url": "https://github.com/hschickdevs/100-Days-of-Code-Python/blob/836e9848de18093c6c837ac2dae4bde7265c247a/days001-010/day004/exercises/exe01.py",
+    "commit": "836e9848de18093c6c837ac2dae4bde7265c247a",
+    "path": "days001-010/day004/exercises/exe01.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "a547204da2d28bf3871d62010317a742146d592f1516c95bc32bd06e027e3158",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 5,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s078",
+    "repo": "hurttttr/MyPythonCode",
+    "url": "https://github.com/hurttttr/MyPythonCode/blob/339c4648da0265931abf567e91101cbd5ad3e72c/1.py",
+    "commit": "339c4648da0265931abf567e91101cbd5ad3e72c",
+    "path": "1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "ed4308de123919da74ddfaa5aa0f2e801a4bd6b766f37044a000ea67c483b584",
+    "func": "randint",
+    "legal": [
+      2,
+      3
+    ],
+    "oor": [
+      4,
+      5,
+      6
+    ],
+    "var": "name_length",
+    "draw_line": 8,
+    "constant": {
+      "value": 3,
+      "line": 10,
+      "col": 26,
+      "end_col": 27
+    }
+  },
+  {
+    "id": "s079",
+    "repo": "inguma/inguma",
+    "url": "https://github.com/inguma/inguma/blob/0d56e65097363bfb0be4f086b4ebcd4596253a96/lib/oracleids.py",
+    "commit": "0d56e65097363bfb0be4f086b4ebcd4596253a96",
+    "path": "lib/oracleids.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "9bace4bff84682a2fac35dedc9a852785076d3c027f13bea5874113b2869f127",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "num",
+    "draw_line": 8,
+    "constant": {
+      "value": 1,
+      "line": 12,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s080",
+    "repo": "iphonesector-hash/iSectorLandBot",
+    "url": "https://github.com/iphonesector-hash/iSectorLandBot/blob/4e5acafe7305fe55c1430e34d2033176fdce669a/modules/fun.py",
+    "commit": "4e5acafe7305fe55c1430e34d2033176fdce669a",
+    "path": "modules/fun.py",
+    "selected": false,
+    "review_decision": "mapping_key_for_draw_value",
+    "category": null,
+    "snippet_sha256": "538fd88f978fb0dafc129c1b511a544ccb3c136ca55ca2b6baf76e41e7c7566d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "n",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s081",
+    "repo": "jaimenyoung/mcb185_homework",
+    "url": "https://github.com/jaimenyoung/mcb185_homework/blob/2af42b2e8d0efc9d6ddd6c870fed641ac809c4f3/45dndstats.py",
+    "commit": "2af42b2e8d0efc9d6ddd6c870fed641ac809c4f3",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "4fa0419275ca79a1bd0c8755fa28019ee57d53021268b67c323c068bcdbd419f",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 16,
+    "constant": {
+      "value": 0,
+      "line": 13,
+      "col": 7,
+      "end_col": 8
+    }
+  },
+  {
+    "id": "s082",
+    "repo": "javadnematollahi/python-assignment",
+    "url": "https://github.com/javadnematollahi/python-assignment/blob/54098350ff39bc663e4c22472c704199ffaca388/2/dice.py",
+    "commit": "54098350ff39bc663e4c22472c704199ffaca388",
+    "path": "2/dice.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "ca97b18eab982d7d50f3881256ed168a22843bbf50155932790326cdf8fd89e0",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 4,
+    "constant": {
+      "value": 6,
+      "line": 6,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s083",
+    "repo": "jimflores5/SigFigs",
+    "url": "https://github.com/jimflores5/SigFigs/blob/14a8721df4759917ad42904bebb79e7acb512369/CountingSigFigs.py",
+    "commit": "14a8721df4759917ad42904bebb79e7acb512369",
+    "path": "CountingSigFigs.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "12fba76421aad2929d7616c5da0bbf26b439c9151719128318074ec3a01bcc29",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "sigFigs",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 12,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s084",
+    "repo": "jurgen-alfaro/my_python_journey",
+    "url": "https://github.com/jurgen-alfaro/my_python_journey/blob/95be00604b3a7f78db24090e695baa7700e657b6/the_basics/random_numbers.py",
+    "commit": "95be00604b3a7f78db24090e695baa7700e657b6",
+    "path": "the_basics/random_numbers.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "a893185d4c915f0f4ec333b80c9480b3d7b00d7bffb74450bd07e82505b8be4e",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 9,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s085",
+    "repo": "jvpark1028/jvpark1028.github.io",
+    "url": "https://github.com/jvpark1028/jvpark1028.github.io/blob/8bc7d09deeaa8dd49b4a61f12098ddad116d5ce2/.py",
+    "commit": "8bc7d09deeaa8dd49b4a61f12098ddad116d5ce2",
+    "path": ".py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "01854492536ab9535e149944959cefb4d89312271ff0805609ab2867552d74b0",
+    "func": "randint",
+    "legal": [
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "an2",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 19,
+      "col": 7,
+      "end_col": 8
+    }
+  },
+  {
+    "id": "s086",
+    "repo": "kabirthakkar/Hkfst2k21",
+    "url": "https://github.com/kabirthakkar/Hkfst2k21/blob/560b35feacd5ee64127c096cb31c79ba0f95a4c2/handcricket.py",
+    "commit": "560b35feacd5ee64127c096cb31c79ba0f95a4c2",
+    "path": "handcricket.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "d99f4f8cf2c9551f819bff9181783a56fac8e4b7364da504e214fa2e812aa7f7",
+    "func": "randint",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "toss_randomiser",
+    "draw_line": 26,
+    "constant": {
+      "value": 1,
+      "line": 27,
+      "col": 22,
+      "end_col": 23
+    }
+  },
+  {
+    "id": "s087",
+    "repo": "karendcl/DAA-Project",
+    "url": "https://github.com/karendcl/DAA-Project/blob/8c6fe8e257034f54088f5456ca1dc3b30b257ad8/2/generator.py",
+    "commit": "8c6fe8e257034f54088f5456ca1dc3b30b257ad8",
+    "path": "2/generator.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "2caf4cadc8fac3aafaaddc792710afed9733d848ca233b737d6b4f082ca2b2a0",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "oor": [
+      8,
+      9,
+      0
+    ],
+    "var": "n",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 22,
+      "end_col": 23
+    }
+  },
+  {
+    "id": "s088",
+    "repo": "kcamson/Coding-Journal",
+    "url": "https://github.com/kcamson/Coding-Journal/blob/9875975ac16d69a807d9d7fd4d4aa09766e26083/list_experimenting/lists.py",
+    "commit": "9875975ac16d69a807d9d7fd4d4aa09766e26083",
+    "path": "list_experimenting/lists.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "da5d3176ddcbd156e293034ee18bda5e4c6ef365ba743f8fba9ab642382fbb1a",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "random_number",
+    "draw_line": 4,
+    "constant": {
+      "value": 3,
+      "line": 7,
+      "col": 21,
+      "end_col": 22
+    }
+  },
+  {
+    "id": "s089",
+    "repo": "ksulam/mcb185_homework",
+    "url": "https://github.com/ksulam/mcb185_homework/blob/c927d02b267ec2fab7d727028968a4c3fe7d1a3a/45dndstats.py",
+    "commit": "c927d02b267ec2fab7d727028968a4c3fe7d1a3a",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "1ef0b83eff841cbae21936b447e810dd31e7793f0eb5a87f48162e43d40280a4",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 9,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s090",
+    "repo": "kujo-ren/py",
+    "url": "https://github.com/kujo-ren/py/blob/a5cb3af84b29b091a5471e664b7834295de9b3c8/01_basics/random.py",
+    "commit": "a5cb3af84b29b091a5471e664b7834295de9b3c8",
+    "path": "01_basics/random.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "dd3efc6f7d9277dc0e3f164e81410410ee6db0d71dd14fba5cd15dbbd3451bb9",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "n",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 4,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s091",
+    "repo": "levirivermusic-cyber/AIML2",
+    "url": "https://github.com/levirivermusic-cyber/AIML2/blob/2c71b94b9613541f7433074ed4873532cb8f0628/day1_1.py",
+    "commit": "2c71b94b9613541f7433074ed4873532cb8f0628",
+    "path": "day1_1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "967c0b91f74469564f2b90e2624e1eabe1b39a2d8c89d84ca7c0065270b5b9b2",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die",
+    "draw_line": 9,
+    "constant": {
+      "value": 5,
+      "line": 6,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s092",
+    "repo": "lyneca/progcomp",
+    "url": "https://github.com/lyneca/progcomp/blob/e35123c3832ffc9b7c8addcf67245301d13e215a/roll.py",
+    "commit": "e35123c3832ffc9b7c8addcf67245301d13e215a",
+    "path": "roll.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "9a7b831920f9cacd6a1196a8e3a785ed66655b536c1f7c51bd0f93ddb2529024",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s093",
+    "repo": "madisonan/mcb185_homework",
+    "url": "https://github.com/madisonan/mcb185_homework/blob/9dc2743db65fe48c98534b53d574d87ff1f73f1b/45dndstats.py",
+    "commit": "9dc2743db65fe48c98534b53d574d87ff1f73f1b",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "7548400082b3cb4ed1cf3fefbbbfc0a83cdc938489bc31abe2bed6f56e851197",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 13,
+    "constant": {
+      "value": 0,
+      "line": 11,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s094",
+    "repo": "malinthann/100daysPython",
+    "url": "https://github.com/malinthann/100daysPython/blob/63971fa6de9615102b20f00ac8b7f2fa8dc51d74/day_04/head_or_tail.py",
+    "commit": "63971fa6de9615102b20f00ac8b7f2fa8dc51d74",
+    "path": "day_04/head_or_tail.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "ddd304af6d40aa3aa8a171d75cea5ce138b5b3c0ff2061cbde3de4595c66e95a",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "presented_coin",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 21,
+      "end_col": 22
+    }
+  },
+  {
+    "id": "s095",
+    "repo": "marlel/mcb185_homework",
+    "url": "https://github.com/marlel/mcb185_homework/blob/ae7baf5311609c134f356d7285914d0baa89f10d/45dndstats.py",
+    "commit": "ae7baf5311609c134f356d7285914d0baa89f10d",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "20fe5c1fd181a5cb14ab6877e5b9f6099c08c73133da67462538eec7fe01731d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 12,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s096",
+    "repo": "michaelbecker/monty-hall-problem",
+    "url": "https://github.com/michaelbecker/monty-hall-problem/blob/7110fabf355f952f03a128e6f31579ab028dce8c/monty.py",
+    "commit": "7110fabf355f952f03a128e6f31579ab028dce8c",
+    "path": "monty.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "fb49bfc03d2e37819b5942d484e3785898bd3b260b7d6103c1022376b4638534",
+    "func": "randrange",
+    "legal": [
+      0,
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "car_index",
+    "draw_line": 5,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 23,
+      "end_col": 24
+    }
+  },
+  {
+    "id": "s097",
+    "repo": "mlewisno-oberlin/python-labs",
+    "url": "https://github.com/mlewisno-oberlin/python-labs/blob/783b6d4380e0e1596ffb520a6b57a67601dd76d7/lab03/trobertson/master.py",
+    "commit": "783b6d4380e0e1596ffb520a6b57a67601dd76d7",
+    "path": "lab03/trobertson/master.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "c883ac34cfaf393c279b93de049de2f75b75be652294de027d32b41d3172d27e",
+    "func": "randrange",
+    "legal": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "rand",
+    "draw_line": 6,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 19,
+      "end_col": 20
+    }
+  },
+  {
+    "id": "s098",
+    "repo": "mnpsnuwan/python-all-in-one",
+    "url": "https://github.com/mnpsnuwan/python-all-in-one/blob/41e385e4a7102413101c70d1f5fc1d178231a018/fun_codes/2_pseudo_random.py",
+    "commit": "41e385e4a7102413101c70d1f5fc1d178231a018",
+    "path": "fun_codes/2_pseudo_random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "2361e6f28844a0ce3ac96794da1feb5fa0d58673700abde1e3f85bf35f60c064",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 17,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s099",
+    "repo": "mob-group/synthesis-eval",
+    "url": "https://github.com/mob-group/synthesis-eval/blob/e0a07ec30531b92dc7c8ad3b1d41b5bb05f0bbd8/examples/fact_fact/gen.py",
+    "commit": "e0a07ec30531b92dc7c8ad3b1d41b5bb05f0bbd8",
+    "path": "examples/fact_fact/gen.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "bbfa1f7384fcd2d641f4012104f9c2c7bef39fbb0920e829167c622343adcf21",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "n",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 10,
+      "end_col": 11
+    }
+  },
+  {
+    "id": "s100",
+    "repo": "mob-group/synthesis-eval",
+    "url": "https://github.com/mob-group/synthesis-eval/blob/e0a07ec30531b92dc7c8ad3b1d41b5bb05f0bbd8/examples/fact/gen.py",
+    "commit": "e0a07ec30531b92dc7c8ad3b1d41b5bb05f0bbd8",
+    "path": "examples/fact/gen.py",
+    "selected": false,
+    "review_decision": "dup_textbook",
+    "category": null,
+    "snippet_sha256": "01a6721d0e2eaffee82b03abf697ddb01060e1fe80532c6696338f658caddc83",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "n",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 10,
+      "end_col": 11
+    }
+  },
+  {
+    "id": "s101",
+    "repo": "msa-sadeghi/arshiya_iliya_paniz_sorena",
+    "url": "https://github.com/msa-sadeghi/arshiya_iliya_paniz_sorena/blob/661c22d78b9f3f335bf2fe9681eb432b4591e78e/s7.py",
+    "commit": "661c22d78b9f3f335bf2fe9681eb432b4591e78e",
+    "path": "s7.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "17d82a42c02c3db2d594ce5e5a0999198b985221114fb1925a4942ae9736cfc3",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "face",
+    "draw_line": 11,
+    "constant": {
+      "value": 0,
+      "line": 8,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s102",
+    "repo": "mujtabanazari/Python-Tutorial",
+    "url": "https://github.com/mujtabanazari/Python-Tutorial/blob/7ecf558aa97eb6ce835ed1b3705680ec9e65aae8/Intermediate/09_Random.py",
+    "commit": "7ecf558aa97eb6ce835ed1b3705680ec9e65aae8",
+    "path": "Intermediate/09_Random.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "55a33d8fb9d783d68089917c8ca9ebf3f8f86e192ad61d0485b16f215834ee76",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 10,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s103",
+    "repo": "naty13naty/mcb185_homework",
+    "url": "https://github.com/naty13naty/mcb185_homework/blob/32885e583e3924c207b7379d464b27b3d7a125e7/45dndstats.py",
+    "commit": "32885e583e3924c207b7379d464b27b3d7a125e7",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "1536479dc07ad42d9b01d71a7b98acebe46009ec6b563ba4a53d0dbed5027152",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll",
+    "draw_line": 18,
+    "constant": {
+      "value": 0,
+      "line": 13,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s104",
+    "repo": "nezzynaz/100-days-python",
+    "url": "https://github.com/nezzynaz/100-days-python/blob/b207661284a54ee15248c36f4a9cc8cc329fea93/day4/coinflip.py",
+    "commit": "b207661284a54ee15248c36f4a9cc8cc329fea93",
+    "path": "day4/coinflip.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "82f034c158e5608f8ed81cd8187bdcd2ec7f999ae6cee01778ed477c99a9e23f",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "COIN",
+    "draw_line": 6,
+    "constant": {
+      "value": 1,
+      "line": 8,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s105",
+    "repo": "onegrit-dev/python-training2022",
+    "url": "https://github.com/onegrit-dev/python-training2022/blob/827f52a4ed6f834ef614e721322fe4d18d83e78a/day2/exercise_1_4.py",
+    "commit": "827f52a4ed6f834ef614e721322fe4d18d83e78a",
+    "path": "day2/exercise_1_4.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "1caf5dda66437365840a2bae63061285d5ce95f36fd366d57b8ac321e1716f92",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s106",
+    "repo": "otabekisamboyev/Python",
+    "url": "https://github.com/otabekisamboyev/Python/blob/664e67bf94c1f76597dda9ca5ea68b731ac02a18/day4/head_or_tail.py",
+    "commit": "664e67bf94c1f76597dda9ca5ea68b731ac02a18",
+    "path": "day4/head_or_tail.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "87eda898cd0255264bc8a9606954d135968e032e98d58631d946428de64718d0",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 3,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 11,
+      "end_col": 12
+    }
+  },
+  {
+    "id": "s107",
+    "repo": "pathilink/TheAppBrewery",
+    "url": "https://github.com/pathilink/TheAppBrewery/blob/d8dc6c7c6908aca8ce039450dfb8f3c16891c8eb/Beginner/day-4-1-exercise.py",
+    "commit": "d8dc6c7c6908aca8ce039450dfb8f3c16891c8eb",
+    "path": "Beginner/day-4-1-exercise.py",
+    "selected": false,
+    "review_decision": "dup_coin_pattern",
+    "category": null,
+    "snippet_sha256": "3e840695f9bb298c90eb6ffdab320f8128c88253cb1be4da51ab64f0432653f0",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "random_coin",
+    "draw_line": 6,
+    "constant": {
+      "value": 1,
+      "line": 8,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s108",
+    "repo": "pdeitel/IntroToPythonBriefVersion",
+    "url": "https://github.com/pdeitel/IntroToPythonBriefVersion/blob/a8552b2a392dd8cbc25cf07dbb49d90286970e35/examples/ch04/fig04_01.py",
+    "commit": "a8552b2a392dd8cbc25cf07dbb49d90286970e35",
+    "path": "examples/ch04/fig04_01.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "04386fbaf5836f6832530f4f2cc75523650a118e9d61f4af304b7ae1886a9453",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "face",
+    "draw_line": 15,
+    "constant": {
+      "value": 0,
+      "line": 11,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s109",
+    "repo": "pdeitel/IntroToPythonBriefVersion",
+    "url": "https://github.com/pdeitel/IntroToPythonBriefVersion/blob/a8552b2a392dd8cbc25cf07dbb49d90286970e35/examples/ch04/fig04_02.py",
+    "commit": "a8552b2a392dd8cbc25cf07dbb49d90286970e35",
+    "path": "examples/ch04/fig04_02.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "fb4481c40cd4c8600189ba00e4ddca2ab1a43111188ad3c55b7c937a7230d834",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die1",
+    "draw_line": 7,
+    "constant": {
+      "value": 7,
+      "line": 22,
+      "col": 19,
+      "end_col": 20
+    }
+  },
+  {
+    "id": "s110",
+    "repo": "pedroccpimenta/APMIEPol",
+    "url": "https://github.com/pedroccpimenta/APMIEPol/blob/c18fa15961af1074fa673e911aba286f3fafc75d/dado.py",
+    "commit": "c18fa15961af1074fa673e911aba286f3fafc75d",
+    "path": "dado.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "643b2588b32b47bfe0640b8e3aa39a4c760a897cee48f19fc05a5afd8cf2b41d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 9,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s111",
+    "repo": "pilihaotian/pythonlearning",
+    "url": "https://github.com/pilihaotian/pythonlearning/blob/e84b7766cc9ea8131e9720fb1f06761c9581d0da/leehao/learn61.py",
+    "commit": "e84b7766cc9ea8131e9720fb1f06761c9581d0da",
+    "path": "leehao/learn61.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "384d0d9703c4ba1451d69415649f7cfc7da2e3df1368c9c4127fe0ab0a1eea0d",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "a",
+    "draw_line": 9,
+    "constant": {
+      "value": 0,
+      "line": 6,
+      "col": 4,
+      "end_col": 5
+    }
+  },
+  {
+    "id": "s112",
+    "repo": "pjandl/opy1",
+    "url": "https://github.com/pjandl/opy1/blob/d4d4dc926ccabd6d0fa3af323cf5cd0a5e998347/Dia_3/dados.py",
+    "commit": "d4d4dc926ccabd6d0fa3af323cf5cd0a5e998347",
+    "path": "Dia_3/dados.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "d0a09cbb012adb39f36c006b1d1787eb4da4c6c6195e084980bfd3a423b5ee40",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "numero",
+    "draw_line": 12,
+    "constant": {
+      "value": 7,
+      "line": 24,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s113",
+    "repo": "pygame664/python",
+    "url": "https://github.com/pygame664/python/blob/710437d1eb376c6bc71f415b9bd5dd0d062b4c90/01.py",
+    "commit": "710437d1eb376c6bc71f415b9bd5dd0d062b4c90",
+    "path": "01.py",
+    "selected": false,
+    "review_decision": "changes_termination",
+    "category": null,
+    "snippet_sha256": "107cec0103f4579e28a8fc8bf9703197f2e2642d99bd3b3fce852348bce3e48d",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "randomNumber1",
+    "draw_line": 4,
+    "constant": {
+      "value": 6,
+      "line": 13,
+      "col": 32,
+      "end_col": 33
+    }
+  },
+  {
+    "id": "s114",
+    "repo": "richardlee-kr/SuperBot",
+    "url": "https://github.com/richardlee-kr/SuperBot/blob/e52ad59b77a1c904081ff30717c85ce8c14256f3/game.py",
+    "commit": "e52ad59b77a1c904081ff30717c85ce8c14256f3",
+    "path": "game.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "876f1dd7e40948ce2317e78e80d2c4810a5d4ccfd9312fd04ae7cd1dc76ba60d",
+    "func": "randrange",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin_face",
+    "draw_line": 5,
+    "constant": {
+      "value": 0,
+      "line": 7,
+      "col": 20,
+      "end_col": 21
+    }
+  },
+  {
+    "id": "s115",
+    "repo": "robumihai/PMP",
+    "url": "https://github.com/robumihai/PMP/blob/c2604cff2f0ba5b61bd86f60d0d20a54357f3a84/lab2/ex1.py",
+    "commit": "c2604cff2f0ba5b61bd86f60d0d20a54357f3a84",
+    "path": "lab2/ex1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "cbb915015b2412cd26204a9589749911e22747e0bdcdaa8c242701fef5e910f9",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "die",
+    "draw_line": 11,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s116",
+    "repo": "rogerxu00/mcb185_homework",
+    "url": "https://github.com/rogerxu00/mcb185_homework/blob/33138c285d276d67670aba9425edd048d40ef0a1/45dndstats.py",
+    "commit": "33138c285d276d67670aba9425edd048d40ef0a1",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "f9329c1520648acd2b1b3c0038b8eaf6653fa74ceeebeaa4d99e13a001119d19",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 19,
+    "constant": {
+      "value": 0,
+      "line": 17,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s117",
+    "repo": "ryorichie/learn",
+    "url": "https://github.com/ryorichie/learn/blob/4581eca7684688304eb749532c9afe502bd22e8a/Python/2022/random_numbers.py",
+    "commit": "4581eca7684688304eb749532c9afe502bd22e8a",
+    "path": "Python/2022/random_numbers.py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "4b261db8bdede8d7398ecdd59a49b88cc82ad48fe88b79045d5fb313a38941e5",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 9,
+      "end_col": 10
+    }
+  },
+  {
+    "id": "s118",
+    "repo": "ryosaburo/python-practice",
+    "url": "https://github.com/ryosaburo/python-practice/blob/ad08a1f4532ab45f84a37dae8815a42d7614c0d9/main.py",
+    "commit": "ad08a1f4532ab45f84a37dae8815a42d7614c0d9",
+    "path": "main.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "052f0aab8f2afd675660a1d92f4a228ae992609159f49c32aa39db3fc6972405",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 5,
+    "constant": {
+      "value": 6,
+      "line": 17,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s119",
+    "repo": "s-m-quadri/geca-labs",
+    "url": "https://github.com/s-m-quadri/geca-labs/blob/94fff8387c9b770a439d0e1ccd5856f7a088dd77/labs-design-analysis-algorithms/lab-00/BT23F05F039/x.py",
+    "commit": "94fff8387c9b770a439d0e1ccd5856f7a088dd77",
+    "path": "labs-design-analysis-algorithms/lab-00/BT23F05F039/x.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "beaff39af7f5da9b42d126bb54e9f79fe9e42f89260f7f92a76d674813ac3007",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice_roll",
+    "draw_line": 9,
+    "constant": {
+      "value": 5,
+      "line": 16,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s120",
+    "repo": "solomonantony/cis650_notes",
+    "url": "https://github.com/solomonantony/cis650_notes/blob/24d8fa8fa66842fc9ad529948967df8d486fdec8/functions_notes/19_random2.py",
+    "commit": "24d8fa8fa66842fc9ad529948967df8d486fdec8",
+    "path": "functions_notes/19_random2.py",
+    "selected": false,
+    "review_decision": "dup_textbook",
+    "category": null,
+    "snippet_sha256": "eef85e40694dc7a7685acfd17cd63a7195f22c1e0a7af0a9cb1b6337c7b24a28",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "face",
+    "draw_line": 13,
+    "constant": {
+      "value": 0,
+      "line": 9,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s121",
+    "repo": "sonnercuen/mcb185_homework",
+    "url": "https://github.com/sonnercuen/mcb185_homework/blob/2ae33e14fa59e1af9fdfc5612c2a02fc2a7ee033/45dndstats.py",
+    "commit": "2ae33e14fa59e1af9fdfc5612c2a02fc2a7ee033",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "f530511bf0142ee306ff14e378c78d31edd3ebbab49c1b3527d807f1d102e968",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d1",
+    "draw_line": 10,
+    "constant": {
+      "value": 0,
+      "line": 8,
+      "col": 6,
+      "end_col": 7
+    }
+  },
+  {
+    "id": "s122",
+    "repo": "sophiarchen/mcb185_homework",
+    "url": "https://github.com/sophiarchen/mcb185_homework/blob/79be56ec687f0bfafda8861334b04f89525c0c20/45dndstats.py",
+    "commit": "79be56ec687f0bfafda8861334b04f89525c0c20",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "9c49a2f139caf7dad1ceb2d98d9493e985ade601da33ee5b8b94f82828c5920e",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d1",
+    "draw_line": 10,
+    "constant": {
+      "value": 0,
+      "line": 8,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s123",
+    "repo": "spy35/Python---",
+    "url": "https://github.com/spy35/Python---/blob/9b8bbd9c7a2197ed5694d03bec07e27759bd463a/coin.py",
+    "commit": "9b8bbd9c7a2197ed5694d03bec07e27759bd463a",
+    "path": "coin.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "01dd14ef6097d8f8adb1580913682809bc83c4f8a3ee9df27305aa96dd19a51c",
+    "func": "randint",
+    "legal": [
+      0,
+      1
+    ],
+    "oor": [
+      2,
+      3,
+      4
+    ],
+    "var": "coin",
+    "draw_line": 9,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 7,
+      "end_col": 8
+    }
+  },
+  {
+    "id": "s124",
+    "repo": "stferraro/PIII25-1",
+    "url": "https://github.com/stferraro/PIII25-1/blob/ffc0df0a9f3862405c81313d11740f1b061833d6/dados.py",
+    "commit": "ffc0df0a9f3862405c81313d11740f1b061833d6",
+    "path": "dados.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "e4aebcabb8fad043bd37f481b9461b8fe0bdd58b86eba87371cab9381ef6aa44",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "a",
+    "draw_line": 6,
+    "constant": {
+      "value": 3,
+      "line": 8,
+      "col": 35,
+      "end_col": 36
+    }
+  },
+  {
+    "id": "s125",
+    "repo": "t0mm4rx/ftprintfdestructor",
+    "url": "https://github.com/t0mm4rx/ftprintfdestructor/blob/2409d375844b47c13ed9e5595a99f0c1d0cdab21/inputs.py",
+    "commit": "2409d375844b47c13ed9e5595a99f0c1d0cdab21",
+    "path": "inputs.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "5f1aada433d24448f3173f2f3f7b8ea4e1ea2ea9b5cba6ab64706d9dcd99b5f6",
+    "func": "choice",
+    "legal": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "oor": [
+      4,
+      5,
+      6
+    ],
+    "var": "choice",
+    "draw_line": 4,
+    "constant": {
+      "value": 0,
+      "line": 5,
+      "col": 15,
+      "end_col": 16
+    }
+  },
+  {
+    "id": "s126",
+    "repo": "techgymjp/techgym_python",
+    "url": "https://github.com/techgymjp/techgym_python/blob/9cb7cefd7d8d7c2ca2832fa13f72b265bf1e8bfd/Wg8K.py",
+    "commit": "9cb7cefd7d8d7c2ca2832fa13f72b265bf1e8bfd",
+    "path": "Wg8K.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "dabd22c15524e38e42db9ee3779c5aa70ad40d037abccec7d5ac25cd59d2b76e",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "special_number",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 23,
+      "end_col": 24
+    }
+  },
+  {
+    "id": "s127",
+    "repo": "thalladi/mcb185_homework",
+    "url": "https://github.com/thalladi/mcb185_homework/blob/098eaedbf1980b2cf807bd18fc7e462d85f131c7/45dndstats.py",
+    "commit": "098eaedbf1980b2cf807bd18fc7e462d85f131c7",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "d380a5168d9b6cb3cf62d5d71a7b72725c8044a4e1e5bc646384d4e7d52302b7",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 13,
+    "constant": {
+      "value": 0,
+      "line": 10,
+      "col": 6,
+      "end_col": 7
+    }
+  },
+  {
+    "id": "s128",
+    "repo": "titanilham/password-generator",
+    "url": "https://github.com/titanilham/password-generator/blob/a075f865ec90422f91ebdafc646ebc21c92d4280/main.py",
+    "commit": "a075f865ec90422f91ebdafc646ebc21c92d4280",
+    "path": "main.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "6827ec55998378c9920665727c31607d864387c9637043317790628cee1c0b05",
+    "func": "randint",
+    "legal": [
+      1,
+      2
+    ],
+    "oor": [
+      3,
+      4,
+      5
+    ],
+    "var": "r",
+    "draw_line": 9,
+    "constant": {
+      "value": 1,
+      "line": 11,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s129",
+    "repo": "tropo/random-number-generator",
+    "url": "https://github.com/tropo/random-number-generator/blob/2fb9784686f69cfe335906c16c1466255e0b6047/rn.py",
+    "commit": "2fb9784686f69cfe335906c16c1466255e0b6047",
+    "path": "rn.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "5cb9faa9198689c0989883484ab61c4127b96e61932a59fb7c396b0bae0ae6fd",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice6",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 9,
+      "col": 16,
+      "end_col": 17
+    }
+  },
+  {
+    "id": "s130",
+    "repo": "ulfattoru546/math_homework",
+    "url": "https://github.com/ulfattoru546/math_homework/blob/f317d1f23c9e8382eb6c1258848399cdd5d923c1/src/33.py",
+    "commit": "f317d1f23c9e8382eb6c1258848399cdd5d923c1",
+    "path": "src/33.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "e9af4d319a96a748878edc3288471f41d6ce501c7235ff6eaf7d3e9655d79418",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "round_number",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 23,
+      "end_col": 24
+    }
+  },
+  {
+    "id": "s131",
+    "repo": "valejojohnson/python-projects",
+    "url": "https://github.com/valejojohnson/python-projects/blob/54ed6768a18fc64d8723c71dcc3200215a102620/usable/guessing_game_computer.py",
+    "commit": "54ed6768a18fc64d8723c71dcc3200215a102620",
+    "path": "usable/guessing_game_computer.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "474172c1c6ecfd412ace6b9a8899fc522322b50d02d0ef6881ff1ab6930a59be",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "answer",
+    "draw_line": 9,
+    "constant": {
+      "value": 1,
+      "line": 14,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s132",
+    "repo": "vojtechruz/pyladies-7",
+    "url": "https://github.com/vojtechruz/pyladies-7/blob/46a083d676a1cc8389a68a2432e06312671e277c/while/13_ukol_1_reseni.py",
+    "commit": "46a083d676a1cc8389a68a2432e06312671e277c",
+    "path": "while/13_ukol_1_reseni.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "3f8f9d490aebeff803e331d3ba8aa4d80d102039f6095b5358906c72864f40b3",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "hod",
+    "draw_line": 24,
+    "constant": {
+      "value": 0,
+      "line": 31,
+      "col": 6,
+      "end_col": 7
+    }
+  },
+  {
+    "id": "s133",
+    "repo": "vsu313/mcb185_homework",
+    "url": "https://github.com/vsu313/mcb185_homework/blob/d4ab72ce66ac8d0682bed35cc1b0b9c882783d8a/45dndstats.py",
+    "commit": "d4ab72ce66ac8d0682bed35cc1b0b9c882783d8a",
+    "path": "45dndstats.py",
+    "selected": false,
+    "review_decision": "dup_3d6_homework",
+    "category": null,
+    "snippet_sha256": "bc8a8f5b033042230dda0c347843f2c6a70c206fe5f4261f3374aa9a66af0fbc",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "d",
+    "draw_line": 26,
+    "constant": {
+      "value": 0,
+      "line": 23,
+      "col": 8,
+      "end_col": 9
+    }
+  },
+  {
+    "id": "s134",
+    "repo": "walker3354/python_home_work",
+    "url": "https://github.com/walker3354/python_home_work/blob/a471ad6614ded43220962f39c6bef90398e10ca8/Course/lesson18(random).py",
+    "commit": "a471ad6614ded43220962f39c6bef90398e10ca8",
+    "path": "Course/lesson18(random).py",
+    "selected": false,
+    "review_decision": "dup_tutorial",
+    "category": null,
+    "snippet_sha256": "3f0968011a1ab0b37d535d8ccf407be3f7c48d789470258986f0fa8aa6c4e7b1",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "x",
+    "draw_line": 3,
+    "constant": {
+      "value": 1,
+      "line": 11,
+      "col": 13,
+      "end_col": 14
+    }
+  },
+  {
+    "id": "s135",
+    "repo": "wavydavy7/Competitive-Programming-Solutions",
+    "url": "https://github.com/wavydavy7/Competitive-Programming-Solutions/blob/1c322474e86dbd2a4d46f8c0123297022627afc3/CompPython/dicesim.py",
+    "commit": "1c322474e86dbd2a4d46f8c0123297022627afc3",
+    "path": "CompPython/dicesim.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "23c33d13ce15ba57945ee39a5d484de0d5a2c2b3ad3d9486283ee5cd771245ab",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 8,
+    "constant": {
+      "value": 0,
+      "line": 6,
+      "col": 12,
+      "end_col": 13
+    }
+  },
+  {
+    "id": "s136",
+    "repo": "wikibook/python-math",
+    "url": "https://github.com/wikibook/python-math/blob/1e655693603c827d04452bed1c84bdad4dfe2df5/py/chapter06/6-1.py",
+    "commit": "1e655693603c827d04452bed1c84bdad4dfe2df5",
+    "path": "py/chapter06/6-1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "4f0a822dbd13a3f7d5a8db5156b23328dc32b245ac5dda5bc5e4171492aa6499",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 6,
+    "constant": {
+      "value": 0,
+      "line": 4,
+      "col": 5,
+      "end_col": 6
+    }
+  },
+  {
+    "id": "s137",
+    "repo": "wikibook/python-math",
+    "url": "https://github.com/wikibook/python-math/blob/1e655693603c827d04452bed1c84bdad4dfe2df5/py/chapter06/6-2.py",
+    "commit": "1e655693603c827d04452bed1c84bdad4dfe2df5",
+    "path": "py/chapter06/6-2.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "2c40cc1f9e0732331b6ab3d08fe260f7a6cd852830e012fb615d72a849047d86",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "dice",
+    "draw_line": 6,
+    "constant": {
+      "value": 1,
+      "line": 7,
+      "col": 18,
+      "end_col": 19
+    }
+  },
+  {
+    "id": "s138",
+    "repo": "williebonavente/CodeTest",
+    "url": "https://github.com/williebonavente/CodeTest/blob/e90f7205b4ee7b0acfd10655093e9241bde7f637/py/MonteCarlo.py",
+    "commit": "e90f7205b4ee7b0acfd10655093e9241bde7f637",
+    "path": "py/MonteCarlo.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "aeac70dea19bbd3098bf6a1cff27bd3da70bd73de1bcf64fefa244e6f5b3e5ad",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "roll",
+    "draw_line": 18,
+    "constant": {
+      "value": 0,
+      "line": 15,
+      "col": 23,
+      "end_col": 24
+    }
+  },
+  {
+    "id": "s139",
+    "repo": "winsecurity/python",
+    "url": "https://github.com/winsecurity/python/blob/31908aac837983a90eb4dc875bc32c62259c97fa/random1.py",
+    "commit": "31908aac837983a90eb4dc875bc32c62259c97fa",
+    "path": "random1.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "05f7b7b9c7abf7f7f2dc3286bdd5b957d3d8b0489c532b2c1999ceabd3f2c207",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "oor": [
+      6,
+      7,
+      8
+    ],
+    "var": "x",
+    "draw_line": 7,
+    "constant": {
+      "value": 1,
+      "line": 9,
+      "col": 20,
+      "end_col": 21
+    }
+  },
+  {
+    "id": "s140",
+    "repo": "xrander/python-basics",
+    "url": "https://github.com/xrander/python-basics/blob/4af5a6e36982dd838db3237cc102e9c6f150c1ec/hello-func.py",
+    "commit": "4af5a6e36982dd838db3237cc102e9c6f150c1ec",
+    "path": "hello-func.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "other",
+    "snippet_sha256": "d784b8e8a984d194e286aaf28f4103858f9bdf1281382d880ee748884c71ba2a",
+    "func": "randint",
+    "legal": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "oor": [
+      7,
+      8,
+      9
+    ],
+    "var": "r",
+    "draw_line": 17,
+    "constant": {
+      "value": 6,
+      "line": 14,
+      "col": 26,
+      "end_col": 27
+    }
+  },
+  {
+    "id": "s141",
+    "repo": "zdandoh/Necromonster",
+    "url": "https://github.com/zdandoh/Necromonster/blob/54522cb3269a4685a1d2a2a4c6b1ed1026228e39/class/pathfind.py",
+    "commit": "54522cb3269a4685a1d2a2a4c6b1ed1026228e39",
+    "path": "class/pathfind.py",
+    "selected": true,
+    "review_decision": "keep",
+    "category": "compare_with_draw_var",
+    "snippet_sha256": "ac06f2a4d3a74c401e094cc29fa45d85ac1fc4cbbb9f4c9d1f716204769346dc",
+    "func": "randrange",
+    "legal": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "oor": [
+      5,
+      6,
+      7
+    ],
+    "var": "direc",
+    "draw_line": 4,
+    "constant": {
+      "value": 1,
+      "line": 5,
+      "col": 16,
+      "end_col": 17
+    }
+  }
+]

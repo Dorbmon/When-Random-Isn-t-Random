@@ -1,0 +1,98 @@
+{
+ "f17": {
+  "dominant_variant": {
+   "0": "236771",
+   "1": "236770",
+   "2": "236778",
+   "3": "236800",
+   "4": "236812",
+   "5": "236810",
+   "6": "236825",
+   "7": "236832"
+  },
+  "dominant_share_within_digit": {
+   "0": 0.9999937116377612,
+   "1": 0.9999991578791835,
+   "2": 0.999999999946669,
+   "3": 0.9999999999993028,
+   "4": 0.9999999998886735,
+   "5": 0.9999999968045548,
+   "6": 0.9999991135661048,
+   "7": 0.9999994513896663
+  },
+  "heads": {
+   "L57H3": {
+    "candidate": true,
+    "dla_at_c_dominant": -10.660224642857143,
+    "dla_at_c_first_variant": -0.00016821428571430486,
+    "dla_letters_dominant": -3.469446951953614e-17,
+    "attn_digit": 0.047369956970214844,
+    "attn_letter": 0.0033830255270004272
+   },
+   "L41H11": {
+    "candidate": true,
+    "dla_at_c_dominant": 5.96898607142857,
+    "dla_at_c_first_variant": 0.06266821428571409,
+    "dla_letters_dominant": -5.551115123125783e-16,
+    "attn_digit": 0.11748886108398438,
+    "attn_letter": 0.021142959594726562
+   },
+   "L41H10": {
+    "candidate": true,
+    "dla_at_c_dominant": -9.662782857142858,
+    "dla_at_c_first_variant": 0.010834999999999973,
+    "dla_letters_dominant": 3.608224830031759e-16,
+    "attn_digit": 0.05155162811279297,
+    "attn_letter": 0.01355743408203125
+   },
+   "L57H20": {
+    "candidate": false,
+    "dla_at_c_dominant": 0.060789642857142834,
+    "dla_at_c_first_variant": 0.0013746428571429713,
+    "dla_letters_dominant": 3.8163916471489756e-17,
+    "attn_digit": 0.00031595826148986814,
+    "attn_letter": 0.0005038827657699585
+   },
+   "L57H8": {
+    "candidate": false,
+    "dla_at_c_dominant": 0.006561071428571097,
+    "dla_at_c_first_variant": -0.00043821428571435563,
+    "dla_letters_dominant": 4.718447854656915e-16,
+    "attn_digit": 0.0024774551391601564,
+    "attn_letter": 0.001828908920288086
+   },
+   "L41H1": {
+    "candidate": false,
+    "dla_at_c_dominant": 0.24028000000000063,
+    "dla_at_c_first_variant": -0.003875357142857494,
+    "dla_letters_dominant": -2.220446049250313e-16,
+    "attn_digit": 0.010896730422973632,
+    "attn_letter": 0.0012129545211791992
+   },
+   "L41H0": {
+    "candidate": false,
+    "dla_at_c_dominant": 0.1453885714285718,
+    "dla_at_c_first_variant": 0.0017382142857141237,
+    "dla_letters_dominant": 5.551115123125783e-17,
+    "attn_digit": 0.004922676086425781,
+    "attn_letter": 0.0037512779235839844
+   },
+   "L41H26": {
+    "candidate": false,
+    "dla_at_c_dominant": -0.14215464285714266,
+    "dla_at_c_first_variant": -0.0005432142857142441,
+    "dla_letters_dominant": -6.938893903907228e-17,
+    "attn_digit": 0.008907318115234375,
+    "attn_letter": 0.0018385648727416992
+   },
+   "L57H29": {
+    "candidate": false,
+    "dla_at_c_dominant": -0.1601064285714285,
+    "dla_at_c_first_variant": 2.1428571428527833e-05,
+    "dla_letters_dominant": 1.3877787807814457e-17,
+    "attn_digit": 0.0008591532707214356,
+    "attn_letter": 0.00147324800491333
+   }
+  }
+ }
+}

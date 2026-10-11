@@ -1,0 +1,32 @@
+{
+ "local": {},
+ "api": {},
+ "logprobs": {
+  "deepseek-v4.1-flash": {
+   "spec": "deepseek-v4.1-flash",
+   "stats": {
+    "rows": 4,
+    "legal_mass_sum": 3.999825977653348
+   },
+   "contexts": 4,
+   "primary_delta_x": null,
+   "secondary_logratio_x": null,
+   "diagonal_contrast_x": null,
+   "letter_noise": {
+    "mean_abs": null
+   },
+   "repeat_tv": {
+    "mean": null,
+    "n": 0
+   },
+   "by_location": {},
+   "by_prompt": {},
+   "by_n": {},
+   "print_const_oor": null,
+   "print_const_vs_base": null,
+   "collapse_norm_entropy_x": null,
+   "confirmed_H1": false
+  }
+ },
+ "overall_local_decision": "not confirmed (0/0)"
+}

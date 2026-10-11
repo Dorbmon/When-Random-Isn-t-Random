@@ -1,0 +1,390 @@
+{
+ "local": {},
+ "api": {
+  "gpt-5.6-luna": {
+   "spec": "gpt-5.6-luna",
+   "stats": {
+    "responses": 1495,
+    "strict": 1494,
+    "valid_x": 1494
+   },
+   "samples_per_context_median": 14.0,
+   "primary_delta_x": {
+    "mean": 0.0029761904761904713,
+    "ci95": [
+     -0.006696428571428571,
+     0.016378348214285663
+    ],
+    "frac_negative": 0.10416666666666667,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.10803571428571429,
+    "ci95": [
+     -0.34910714285714284,
+     0.025
+    ],
+    "frac_negative": 0.125,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.00446428571428572,
+     "frac_negative": 0.1875
+    },
+    "comment_up": {
+     "mean": -0.008928571428571435,
+     "frac_negative": 0.125
+    },
+    "prompt_nl": {
+     "mean": 0.02232142857142857,
+     "frac_negative": 0.0
+    }
+   },
+   "by_prompt": {
+    "base": 0.005952380952380945,
+    "uniform": -2.6020852139652106e-18
+   },
+   "p_x_eq_y_base": 0.08909574468085106,
+   "p_x_eq_y_uniform": 0.004043126684636119,
+   "confirmed_H1": false
+  },
+  "gemini-3.8-flash": {
+   "spec": "gemini-3.8-flash",
+   "stats": {
+    "responses": 1504,
+    "strict": 1503,
+    "valid_x": 1504
+   },
+   "samples_per_context_median": 14.0,
+   "primary_delta_x": {
+    "mean": -0.019345238095238092,
+    "ci95": [
+     -0.0673456101190476,
+     0.008928571428571428
+    ],
+    "frac_negative": 0.16666666666666666,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.11636904761904762,
+    "ci95": [
+     -0.28081101190476193,
+     -0.013236607142857182
+    ],
+    "frac_negative": 0.3125,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.00446428571428571,
+     "frac_negative": 0.125
+    },
+    "comment_up": {
+     "mean": -0.013392857142857146,
+     "frac_negative": 0.125
+    },
+    "prompt_nl": {
+     "mean": -0.04017857142857143,
+     "frac_negative": 0.25
+    }
+   },
+   "by_prompt": {
+    "base": -0.005952380952380952,
+    "uniform": -0.03273809523809524
+   },
+   "p_x_eq_y_base": 0.01837270341207349,
+   "p_x_eq_y_uniform": 0.0,
+   "confirmed_H1": false
+  },
+  "claude-sonnet-5": {
+   "spec": "claude-sonnet-5",
+   "stats": {
+    "responses": 1503,
+    "strict": 1503,
+    "valid_x": 1503
+   },
+   "samples_per_context_median": 14.0,
+   "primary_delta_x": {
+    "mean": -0.011706349206349201,
+    "ci95": [
+     -0.07029017857142858,
+     0.04221478174603173
+    ],
+    "frac_negative": 0.22916666666666666,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.013095238095238097,
+    "ci95": [
+     -0.052380952380952375,
+     0.0
+    ],
+    "frac_negative": 0.125,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": 0.01845238095238096,
+     "frac_negative": 0.25
+    },
+    "comment_up": {
+     "mean": -0.062499999999999986,
+     "frac_negative": 0.375
+    },
+    "prompt_nl": {
+     "mean": 0.008928571428571428,
+     "frac_negative": 0.0625
+    }
+   },
+   "by_prompt": {
+    "base": -0.011507936507936503,
+    "uniform": -0.011904761904761904
+   },
+   "p_x_eq_y_base": 0.003942181340341655,
+   "p_x_eq_y_uniform": 0.016172506738544475,
+   "confirmed_H1": false
+  },
+  "deepseek-v4.1-flash": {
+   "spec": "deepseek-v4.1-flash",
+   "stats": {
+    "responses": 6784,
+    "strict": 6754,
+    "valid_x": 6752
+   },
+   "samples_per_context_median": 64.0,
+   "primary_delta_x": {
+    "mean": -0.0191385582010582,
+    "ci95": [
+     -0.05358331266534391,
+     0.00558823681382275
+    ],
+    "frac_negative": 0.4583333333333333,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.11808655753968253,
+    "ci95": [
+     -0.34483642578124996,
+     -0.000992063492063492
+    ],
+    "frac_negative": 0.5,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.0380859375,
+     "frac_negative": 0.5625
+    },
+    "comment_up": {
+     "mean": -0.013656374007936505,
+     "frac_negative": 0.4375
+    },
+    "prompt_nl": {
+     "mean": -0.005673363095238098,
+     "frac_negative": 0.375
+    }
+   },
+   "by_prompt": {
+    "base": -0.0234375,
+    "uniform": -0.014839616402116403
+   },
+   "p_x_eq_y_base": 0.0011841326228537595,
+   "p_x_eq_y_uniform": 0.002372479240806643,
+   "confirmed_H1": false
+  },
+  "gpt-6-luna": {
+   "spec": "gpt-6-luna",
+   "stats": {
+    "responses": 796,
+    "strict": 795,
+    "valid_x": 796
+   },
+   "samples_per_context_median": 8.0,
+   "primary_delta_x": {
+    "mean": -0.022321428571428575,
+    "ci95": [
+     -0.0971005394345238,
+     0.028757440476190374
+    ],
+    "frac_negative": 0.1875,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.078125,
+    "ci95": [
+     -0.28299386160714285,
+     0.078125
+    ],
+    "frac_negative": 0.3125,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.01674107142857143,
+     "frac_negative": 0.1875
+    },
+    "comment_up": {
+     "mean": -0.01674107142857143,
+     "frac_negative": 0.1875
+    },
+    "prompt_nl": {
+     "mean": -0.033482142857142856,
+     "frac_negative": 0.1875
+    }
+   },
+   "by_prompt": {
+    "base": -0.020833333333333332,
+    "uniform": -0.02380952380952381
+   },
+   "p_x_eq_y_base": 0.12322274881516587,
+   "p_x_eq_y_uniform": 0.0,
+   "confirmed_H1": false
+  },
+  "gpt-6-luna-reasoning": {
+   "spec": "gpt-6-luna-reasoning",
+   "stats": {
+    "responses": 783,
+    "strict": 783,
+    "valid_x": 783
+   },
+   "samples_per_context_median": 7.0,
+   "primary_delta_x": {
+    "mean": 0.03125,
+    "ci95": [
+     0.002976190476190476,
+     0.07032180059523804
+    ],
+    "frac_negative": 0.0,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.125,
+    "ci95": [
+     -0.375,
+     0.0
+    ],
+    "frac_negative": 0.1875,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": 0.03125,
+     "frac_negative": 0.0
+    },
+    "comment_up": {
+     "mean": 0.0,
+     "frac_negative": 0.0
+    },
+    "prompt_nl": {
+     "mean": 0.06249999999999999,
+     "frac_negative": 0.0
+    }
+   },
+   "by_prompt": {
+    "base": 0.03273809523809523,
+    "uniform": 0.029761904761904757
+   },
+   "p_x_eq_y_base": 0.007281553398058253,
+   "p_x_eq_y_uniform": 0.0,
+   "confirmed_H1": false
+  },
+  "gpt-6-sol-reasoning": {
+   "spec": "gpt-6-sol-reasoning",
+   "stats": {
+    "responses": 1511,
+    "strict": 1511,
+    "valid_x": 1511
+   },
+   "samples_per_context_median": 14.0,
+   "primary_delta_x": {
+    "mean": -0.011904761904761904,
+    "ci95": [
+     -0.05105282738095239,
+     0.013541666666666665
+    ],
+    "frac_negative": 0.14583333333333334,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.10833333333333334,
+    "ci95": [
+     -0.3062797619047619,
+     0.0
+    ],
+    "frac_negative": 0.25,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.02678571428571428,
+     "frac_negative": 0.125
+    },
+    "comment_up": {
+     "mean": -3.469446951953614e-18,
+     "frac_negative": 0.1875
+    },
+    "prompt_nl": {
+     "mean": -0.008928571428571432,
+     "frac_negative": 0.125
+    }
+   },
+   "by_prompt": {
+    "base": -0.0059523809523809555,
+    "uniform": -0.01785714285714286
+   },
+   "p_x_eq_y_base": 0.10143042912873862,
+   "p_x_eq_y_uniform": 0.0,
+   "confirmed_H1": false
+  },
+  "claude-opus-5.5-reasoning": {
+   "spec": "claude-opus-5.5-reasoning",
+   "stats": {
+    "responses": 1512,
+    "strict": 1512,
+    "valid_x": 1512
+   },
+   "samples_per_context_median": 14.0,
+   "primary_delta_x": {
+    "mean": -0.06646825396825397,
+    "ci95": [
+     -0.16339409722222223,
+     0.0
+    ],
+    "frac_negative": 0.20833333333333334,
+    "cells": 48
+   },
+   "print_const_oor": {
+    "mean": -0.10833333333333334,
+    "ci95": [
+     -0.3375,
+     0.0
+    ],
+    "frac_negative": 0.125,
+    "cells": 16
+   },
+   "by_location": {
+    "comment_down": {
+     "mean": -0.07440476190476192,
+     "frac_negative": 0.25
+    },
+    "comment_up": {
+     "mean": -0.07142857142857142,
+     "frac_negative": 0.1875
+    },
+    "prompt_nl": {
+     "mean": -0.053571428571428575,
+     "frac_negative": 0.1875
+    }
+   },
+   "by_prompt": {
+    "base": -0.022817460317460323,
+    "uniform": -0.11011904761904763
+   },
+   "p_x_eq_y_base": 0.0,
+   "p_x_eq_y_uniform": 0.0,
+   "confirmed_H1": false
+  }
+ },
+ "overall_local_decision": "not confirmed (0/0)"
+}
